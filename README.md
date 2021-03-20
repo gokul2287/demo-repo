@@ -2,4 +2,4 @@
 
 ##demo 2
 
-This repository is only for learning purpose 
+This repository is only for fun purpose 
