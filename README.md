@@ -36,4 +36,5 @@ $ npm start
 
 
 ## Code Examples
-To generate lorem ipsum use special shortcode: `put-your-code-here`
+To generate lorem ipsum use special shortcode: `put-your-code-here` 
+
