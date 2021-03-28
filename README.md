@@ -32,9 +32,9 @@ $ npm start
 ```
 
 
-![Algorithm schema](./images/schema.jpg)
+![Screenshot](./images/screenshot.png)
 
 
 ## Code Examples
 To generate lorem ipsum use special shortcode: `put-your-code-here` 
-
+To generate lorem ipsum use special shortcode: `put-your-code-here`
